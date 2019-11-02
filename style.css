@@ -1,0 +1,55 @@
+
+
+
+html,body{
+	height: 100%;	
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+h1, h2, h3{
+	margin: 0;
+	padding: 0;
+	color: #404040;
+}
+
+p, ol, ul{
+	margin-top: 0;
+}
+
+p{
+	line-height: 180%; /* altura entre as linhas de um texto*/
+}
+
+ol, ul{
+	padding: 0; /* é o espaço entre seu conteúdo e sua borda */
+	list-style: none;
+}
+
+/* "." = representa uma classe */
+.conteudo{
+   /* comprimento do container foi
+      de 1200px e o alinhamento central */
+   margin: 0px auto;
+   width: 1200px;
+}
+
+#bemVindo{
+	margin-left: 150px;
+	overflow: hidden;
+	width: 1000px;
+	text-align: center;
+}
+
+#bemVindo .title{
+	margin-top: 20px;
+	padding: 20px;
+	text-align: center;
+}
+
+#bemVindo p{
+	text-align: center;
+	margin-bottom: 40px;
+}
