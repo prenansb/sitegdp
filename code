@@ -70,8 +70,8 @@
         <li class="nav-item">
           <a class="nav-link" href="SobreNos.html">Sobre nós</a>
         </li>
-        <li class="nav-item disable">
-          <a class="nav-link" href="#">Feedback</a>
+        <li class="nav-item">
+          <a class="nav-link" href="feedback1.html">Feedback</a>
         </li>
 
       </ul>
@@ -194,7 +194,7 @@
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading">Aprenda tudo sobre <span class="text-muted">PMBOK</span></h2>
-        <p class="lead">DescriçãoO guia Project Management Body of Knowledge é um conjunto de práticas na gestão de projetos organizado pelo instituto PMI e é considerado a base do conhecimento sobre gestão de projetos por profissionais da área.</p>
+        <p class="lead">Descrição guia Project Management Body of Knowledge é um conjunto de práticas na gestão de projetos organizado pelo instituto PMI e é considerado a base do conhecimento sobre gestão de projetos por profissionais da área.</p>
       
           <a href="#" class="leiamais">Leia mais...</a>
       </div>
